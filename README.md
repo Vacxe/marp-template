@@ -6,6 +6,6 @@ transition: fade
 
 <!-- _class: lead -->
 
-# Marp Repository Template
+# Marp Repository Slide
 
 ---
