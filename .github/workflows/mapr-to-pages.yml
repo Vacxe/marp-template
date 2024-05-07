@@ -17,7 +17,7 @@ jobs:
       - name: Marp Build
         uses: docker://marpteam/marp-cli:v3.0.2
         with:
-          args: Readme.md -o index.html
+          args: README.md -o index.html
         env:
           MARP_USER: root:root
 
