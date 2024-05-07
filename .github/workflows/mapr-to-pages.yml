@@ -1,6 +1,5 @@
 name: Deploy Readme.md to Pages
 concurrency: marp-to-pages
-
 on:
   push:
     branches: [ master ]
